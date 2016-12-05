@@ -6,7 +6,7 @@
 [//]: # (https://help.github.com/articles/creating-and-highlighting-code-blocks/)
 ## Tartalomjegyzék
 
-  1. [Az alkalmazás indítása](#az-értékelés-összetevői)
+  1. [Az alkalmazás indítása](#az-alkalmazás-indítása)
 
 ## Az alkalmazás indítása
 
